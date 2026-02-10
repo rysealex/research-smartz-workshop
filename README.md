@@ -1,5 +1,5 @@
 # research-smartz-workshop
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
